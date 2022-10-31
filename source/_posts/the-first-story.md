@@ -6,7 +6,7 @@ tags: 随笔
 
 # Hello
 
-![](https://raw.githubusercontent.com/hexueyuan/hexueyuan.github.io/main/source/imagesIMG_4389.jpeg)
+![](https://raw.githubusercontent.com/hexueyuan/hexueyuan.github.io/main/source/images/IMG_4389.jpeg)
 
 已经记不起这是第多少次重新搭建博客了，之前零零散散搭建过好几次，然后也没有维持太长时间后来服务器到期就没有再维护了，这一次看到用hexo加github actions来做自动的部署，整个流程都是免费的，所以就又简单弄了一弄，相比之前来说确实简单了不少，所以从今天开始，这个博客就又重新开始了吧～
 
