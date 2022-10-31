@@ -18,10 +18,10 @@ social:
   facebook: /
   linkedin:
   instagram: /
-  github: haojen
+  github: hexueyuan
 
 user:
-  name: Haojen
+  name: Xueyuan
   avatar: /images/avatar.jpg
   location: In the dust
   description: May the Force be with you
@@ -31,7 +31,7 @@ user:
 # API config: https://utteranc.es/
 comment_utteranc:
   enable: true
-  repo: Haojen/Claudia-theme-blog # your blog repo
+  repo: hexueyuan/hexueyuan.github.io # your blog repo
 
 
 # documents: https://valine.js.org/quickstart.html
