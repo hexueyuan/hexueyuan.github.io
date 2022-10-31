@@ -58,7 +58,7 @@ ga_track_id:
 ga_domain:
 
 # Baidu Analytics
-ba_track_id:
+ba_track_id: c622a7a2202bcdcddc35144accd930df
 
 # picture of about page
 about_pic: about.png
