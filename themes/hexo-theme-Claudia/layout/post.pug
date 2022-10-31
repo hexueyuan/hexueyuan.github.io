@@ -1,6 +1,6 @@
 extends widget/base
 block append head
-  link(rel='stylesheet', href= url_for('/style/post.scss'))
+  link(rel='stylesheet', href= url_for('/style/post.css'))
   link(rel='stylesheet', href= url_for('/style/themes/highlight-theme-light.css'))
   script(src= url_for("/js/highlight.pack.js"))
   meta(name="description", content=truncate( strip_html(page.content), {length: 360, omission: '..'} ))
