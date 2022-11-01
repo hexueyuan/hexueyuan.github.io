@@ -4,11 +4,30 @@
   
     
     <entry>
+      <title>贸易的重要性</title>
+      <link href="/2022/10/31/trading/"/>
+      <url>/2022/10/31/trading/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a><img src="https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/635bb2c145e3d.jpg"></h1><h1 id="贸易的重要性"><a href="#贸易的重要性" class="headerlink" title="贸易的重要性"></a>贸易的重要性</h1><p>微观经济学里有一个重要的经济学原理</p><blockquote><p>贸易可以使每个人的状况都变得更好</p></blockquote><p>一开始我看到这个理论的时候，觉得它对但是又不知道为什么对。书里边讲了一个很经典的例子，假设世界上只有两种物品——土豆和牛肉，而且世界上只有两个人——名叫Ruby的牧羊人和名叫Frank的农民，他们每个人既爱吃牛肉，也爱吃土豆。但是两个人的生产能力是不一样的：</p><table><thead><tr><th></th><th>生产1盎司所需要的时间（分钟）</th><th>8小时的产量（盎司）</th></tr></thead><tbody><tr><td>Frank</td><td>牛肉：60 土豆：15</td><td>牛肉：8 土豆：32</td></tr><tr><td>Ruby</td><td>牛肉：20 土豆：10</td><td>牛肉：24 土豆：48</td></tr></tbody></table><p>Ruby的生产效率比Frank高很多。如果Frank和Ruby选择自给自足，那么每个人消费的产品就正是他们自己生产的产品，两个人都选择在两种物品上投入相同的生产时间，于是Frank么天可以收获4盎司牛肉和16盎司土豆，而Ruby每天可以收获12盎司牛肉和24盎司土豆。</p><p>但是在过了一段时间之后，Ruby 有了一个提议，他让Frank用全部的时间去生产土豆，自己用6小时去养牛，2小时去种植土豆；这样Frank每天可以收获32盎司土豆，然后Ruby愿意用5盎司的牛肉去交换15盎司的土豆，这样Frank可以获得5盎司的牛肉和17盎司的土豆，而Ruby可以获得13盎司牛肉和27盎司土豆，比之前没有交易时双方都获得了更多的物品！</p><p>这是一个很有趣的事实，尽管Ruby的生产能力都要比甲大，但是两者依旧会有交易的需求，因为这会让双方都过的更好！</p><p>在书中为了解释这个事实，引入了三个新的概念，“相对优势”、“绝对优势“以及“机会成本”。</p><p><strong>绝对优势</strong>：一个生产者用比另一个生产者更少的投入生产某种生产物品的能力。</p><p><strong>相对优势</strong>：一个生产者以低于另一个生产者的机会成本生产某种物品的能力。</p><p><strong>机会成本</strong>：为了得到某种东西所必须要放弃的东西。</p><p>有了以上概念，我们重新审视一下Frank和Ruby生产土豆和牛肉的机会成本：</p><table><thead><tr><th></th><th>1盎司牛肉的机会成本</th><th>1盎司土豆的机会成本</th></tr></thead><tbody><tr><td>Frank</td><td>4盎司土豆</td><td>1/4盎司牛肉</td></tr><tr><td>Ruby</td><td>2盎司土豆</td><td>1/2盎司牛肉</td></tr></tbody></table><p>也就是说，在生产牛肉上Ruby具有更低的机会成本，因此Ruby具有相对优势，而在生产土豆上Frank有更低的机会成本，因此具有Frank相对优势，并且牛肉和土豆的机会成本互为倒数，也就是说不会出现一个人在某一种物品上都具有相对优势。</p><p>当每一个人都专门生产自己有比较优势的物品时，经济的总产量就增加了，经济蛋糕的变大可用于改善每一个人的状况。贸易可以使社会上的每一个人都获益，因为它使人们可以专门从事他们具有比较优势的活动！</p><p>&nbsp;&nbsp;&nbsp;</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 经济学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新的开始！</title>
       <link href="/2022/10/28/the-first-story/"/>
       <url>/2022/10/28/the-first-story/</url>
       
-        <content type="html"><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h1><img src="https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/IMG_4389.jpeg" title="" alt="" width="685"><p>已经记不起这是第多少次重新搭建博客了，之前零零散散搭建过好几次，然后也没有维持太长时间后来服务器到期就没有再维护了，这一次看到用hexo加github actions来做自动的部署，整个流程都是免费的，所以就又简单弄了一弄，相比之前来说确实简单了不少，所以从今天开始，这个博客就又重新开始了吧～</p><p>我会在这里记录一些我的随笔，一些学习笔记以及一些生活分享，虽然工作很忙，生活很累，但也会忙碌之时在偷得片刻闲暇来写一写，以便留下一些回忆记录。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h1><img src="https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/IMG_4389.jpeg" title="" alt="" width="685"><p>已经记不起这是第多少次重新搭建博客了，之前零零散散搭建过好几次，然后也没有维持太长时间后来服务器到期就没有再维护了，这一次看到用hexo加github actions来做自动的部署，整个流程都是免费的，所以就又简单弄了一弄，相比之前来说确实简单了不少，所以从今天开始，这个博客就又重新开始了吧～</p><p>我会在这里记录一些我的随笔，一些学习笔记以及一些生活分享，虽然工作很忙，生活很累，但也会忙碌之时在偷得片刻闲暇来写一写，以便留下一些回忆记录。</p><p>图片上这只猫是我在爬凤凰岭鹫峰山顶上偶然拍到的，这里是海淀区海拔最高的地方，它在这里晒着太阳看着风景，十分惬意。我一直很想养一只猫，可惜现在不太合适，我也挺羡慕猫的生活，没有忧虑，没有烦恼，再多的烦心事一觉过后就都能忘掉。</p>]]></content>
       
       
       
