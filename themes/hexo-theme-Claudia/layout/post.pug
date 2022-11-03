@@ -26,6 +26,9 @@ block content
                 h1.mt-0.mb-1.is-family-serif#postTitle= page.title
                 if page.date
                     time.has-text-grey(datetime=page.date.toJSON())= date(page.date, date_format)
+                span#busuanzi_container_page_pv.has-text-grey= "  本文总阅读量"
+                  span#busuanzi_value_page_pv
+                  span= "次"
                 article.mt-2.post-content!= page.content
                 section.jump-container.is-flex.is-justify-content-space-between.my-6
                     // em is empty placeholder

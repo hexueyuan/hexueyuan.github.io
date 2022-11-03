@@ -25,7 +25,7 @@ user:
   avatar: /images/avatar.png
   location: Beijing, China
   description: 愿日日皆能偷得浮生半日闲
-  footnotes: # footnotes
+  footnotes: <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
