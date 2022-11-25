@@ -4,7 +4,7 @@ date: 2022-11-23 00:27:45
 tags: 随笔
 ---
 
-![IMG_3982](https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/IMG_3982.png)
+![](https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/IMG_4765.png)
 
 ​	我还算是一个比较喜欢看书的人，而且我只看纸质书，我对电子书有一种莫名的偏见，我的强迫症会要求我在书开封之际去感受印刷油墨的气味，会在我阅读的时候要求我去用指尖轻轻摩挲书页，如若不然这书或许就看的不太自在。
 
