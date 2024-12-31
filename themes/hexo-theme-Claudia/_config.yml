@@ -22,7 +22,7 @@ social:
 
 user:
   name: 南
-  avatar: /images/avatar.png
+  avatar: /images/avatar.jpeg
   location: Beijing, China
   description: 愿日日皆能偷得浮生半日闲
   footnotes: <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
@@ -51,7 +51,7 @@ comment_disqus:
 appearance: auto # Default value is auto
 
 # Miscellaneous
-favicon: /images/avatar.png
+favicon: /images/avatar.jpeg
 
 # Google Analytics
 ga_track_id:
