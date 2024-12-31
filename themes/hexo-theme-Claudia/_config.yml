@@ -22,10 +22,10 @@ social:
 
 user:
   name: 南
-  avatar: /images/avatar.jpeg
+  avatar: /images/avatar.JPG
   location: Beijing, China
   description: 愿日日皆能偷得浮生半日闲
-  footnotes: <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+  footnotes: <span id="busuanzi_container_site_pv">这篇文章已经有<span id="busuanzi_value_site_pv"></span>人看过啦！</span>
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
@@ -51,7 +51,7 @@ comment_disqus:
 appearance: auto # Default value is auto
 
 # Miscellaneous
-favicon: /images/avatar.jpeg
+favicon: /images/avatar.JPG
 
 # Google Analytics
 ga_track_id:
