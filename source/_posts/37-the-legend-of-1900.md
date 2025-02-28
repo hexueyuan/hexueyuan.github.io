@@ -12,7 +12,7 @@ Playing love这首歌是海上钢琴师（The legend of 1900）中，1900在录�
 
 这是我在整部电影中最喜欢的片段，一个自由的人，从漫无目的随性自由到爱上一个人无法自拔，1900一生从未下过船，但一生中却仅有这一次，因为这个女孩想要下船。
 
-<video style="width:100%; height:500px; object-fit:contain" controls src="https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/67/42/267934267/267934267-1-192.mp4?e=ig8euxZM2rNcNbNBnwdVhwdlhbU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1740727308&gen=playurlv2&os=bdbv&oi=2094982342&trid=915e9cadb7c6477c8a4e1514e9cdebb2O&mid=0&platform=html5&og=hw&upsig=28be31e281a931706121abfb00f47166&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=258328&logo=80000000"></video>
+<video style="width:100%; height:500px; object-fit:contain" controls src="https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/267934267-1-192.mp4"></video>
 
 
 
