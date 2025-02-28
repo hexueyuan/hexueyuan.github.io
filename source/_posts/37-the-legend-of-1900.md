@@ -1,0 +1,30 @@
+---
+title: 海上钢琴师 & Playing love
+date: 2025-02-28 11:55:53
+tags: 电影
+---
+
+![海上钢琴师](https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/5dc24f3a4949b.jpg)
+
+Playing love这首歌是海上钢琴师（The legend of 1900）中，1900在录制唱片时，对窗外的女孩一见钟情时弹的音乐。原作者是意大利著名作曲家Ennio Morricone。
+
+这首曲子用的是E大调，一开始散拍自由的爵士风格，代表的是1900前半生在大海上自由、无拘束但却没有方向的状态，当他看到窗外的女孩时，眼神从空洞变得明亮温柔，杂乱的音乐也开始有了明确的主题。
+
+这是我在整部电影中最喜欢的片段，一个自由的人，从漫无目的随性自由到爱上一个人无法自拔，1900一生从未下过船，但一生中却仅有这一次，因为这个女孩想要下船。
+
+<video style="width:100%; height:500px; object-fit:contain" controls src="https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/67/42/267934267/267934267-1-192.mp4?e=ig8euxZM2rNcNbNBnwdVhwdlhbU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1740727308&gen=playurlv2&os=bdbv&oi=2094982342&trid=915e9cadb7c6477c8a4e1514e9cdebb2O&mid=0&platform=html5&og=hw&upsig=28be31e281a931706121abfb00f47166&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=258328&logo=80000000"></video>
+
+
+
+这是唯一一次萌生想下船的想法，可在看到伦敦这座一眼看不到尽头的城市，1900犹豫、踌躇，最后放弃了下船回到了船上。
+
+![](https://hxy-blog.oss-cn-beijing.aliyuncs.com/images/IMG_3444.jpeg)
+
+我们都听说过人生是旷野，但当我们给自己划定了许多必经之路，比如必须考上大学、必须找到一份收入多少的工作、在哪里定居、什么时候要买好房买好车、要和什么样的人结婚、生孩子，当这些地方我们都要去一趟的时候，那我们在有限的人生里能探索到的地方就很少了。
+
+1900终生都在船上，从船头甲板到船尾，有限的空间，每一次航行最多只有2000人，钢琴从最低音到最高音总共88个按键，但1900他可以在这些有限的地方做出无限的音乐，而不是下船到这个看不到尽头的无限的城市里，去做有限的事情。
+
+在这些必经之路上，有很多按部就班的人，当然可以有很多的“朋友”，但这条自由之路注定是一条少有人走的路，也注定是一条孤独的路。
+
+对于一个追求自由的人来说，给他戴上的最沉重的枷锁就是让他合群。
+
